@@ -1,0 +1,9 @@
+/wp-content/upgrade
+/wp-content/uploads
+sitemap.*
+*.sql
+.DS_Store
+*Thumbs.db
+*.sass-cache*
+*~imageoptim*
+
